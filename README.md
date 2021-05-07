@@ -2,39 +2,7 @@
 <!doctype html public "-//w3c//dtd html 4.0 transitional//en">
 <HTML>
 <HEAD>
-<TITLE></TITLE>
-<link href="real.css" rel="stylesheet" type="text/css">
-<STYLE type="text/css">BODY,H1,H2,H3,H4,H5,H6,P,CENTER,TD,TH,UL,DL,DIV {
-	font-family: Geneva, Arial, Helvetica, sans-serif;
-}
-H2  {
-	background: rgb(176, 196, 222);
-}
-H1 {
-	background: rgb( 70, 130, 180);
-	text-align: center;
-}
-TH  {
-	background: rgb(176, 226, 255);
-}
-BODY {
-	background: white;
-	color: black;
-	margin-right: 20px;
-	margin-left: 20px;
-}
-a  {
-	color: #252E78;
-}
-a:visited {
-	color: #3D2185;
-}
-a:hover {
-	font-weight:bold;
-}
-ul  {
-	list-style-type: none;	margin: 1em 0 1em 0px;}
-</STYLE></HEAD>
+</HEAD>
 <BODY BGCOLOR='white' TEXT='black'
 LINK='blue' VLINK='blue'
 ALINK='green'>
