@@ -1,5 +1,4 @@
 # hotel_enum_real_2
-<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
 <HTML>
 <HEAD>
 </HEAD>
